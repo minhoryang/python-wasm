@@ -84,4 +84,4 @@ onmessage = (event) => {
     }
 }
 
-importScripts('python.js')
+importScripts('/python.js')
